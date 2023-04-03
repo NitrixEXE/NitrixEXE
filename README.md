@@ -1,4 +1,4 @@
-[![MasterHead](https://www.indiegamelaunchpad.io/wp-content/uploads/2017/09/Banner-Discord-1.png)](https://discord.gg/yvvCVrj2AS)
+[![MasterHead](https://www.indiegamelaunchpad.io/wp-content/uploads/2017/09/Banner-Discord-1.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Arpan Singh</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
