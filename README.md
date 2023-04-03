@@ -1,4 +1,4 @@
-[![MasterHead](https://images-ext-2.discordapp.net/external/nFWpP6A4DHT7Z1mO2iII0gpGPMgvXN-84C0ZXQoRBPU/%3Fsize%3D1024/https/cdn.discordapp.com/banners/1010869461059911681/6fe58939c5be689991a6eaa169fe4788.webp?width=993&height=558)](https://rishavchanda.io)
+[![MasterHead](https://media.discordapp.net/attachments/1076805461254340610/1092322131959873606/cropped.png?width=1056&height=300)](https://discord.gg/yvvCVrj2AS)
 <h1 align="center">Hi 👋, I'm Arpan Singh</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
